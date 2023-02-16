@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  //Why use React instead of other frameworks, like Angular?
+
   return (
     <div className="App">
       <header className="App-header">
@@ -22,5 +22,5 @@ function App() {
     </div>
   );
 }
-//How do you create a React app?
+
 export default App;
